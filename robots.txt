@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://productivityforbiz.net/sitemap.xml
+Sitemap: https://productivityforbiz.net/blog-productivityforbiz/sitemap.xml
